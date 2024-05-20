@@ -1,22 +1,40 @@
 {
-    "blogs": [
-        {
-            "title": "My new website",
-            "body": "lorem ipsum 1...",
-            "author": "mario", 
-            "id": 1
-        },
-        {
-            "title": "Welcome party!",
-            "body": "lorem ipsum 2...",
-            "author": "yoshi", 
-            "id": 2
-        },
-        {
-            "title": "Web dev top tips",
-            "body": "lorem ipsum 3...",
-            "author": "mario", 
-            "id": 3
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lorem ipsum 1...",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Welcome party!",
+      "body": "lorem ipsum 2...",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "lorem ipsum 3...",
+      "author": "mario",
+      "id": "3"
+    },
+    {
+      "id": "0dfc",
+      "title": "new blog",
+      "body": "This is my new blog",
+      "author": "mario"
+    },
+    {
+      "id": "9dcb",
+      "title": "Flask",
+      "body": "This is blog about Python's Flask microframework for web development.",
+      "author": "yoshi"
+    },
+    {
+      "id": "eb5c",
+      "title": "FastAPI",
+      "body": "This is blog about Python's FastAPI framework for web development.",
+      "author": "yoshi"
+    }
+  ]
 }

@@ -19,21 +19,9 @@
       "id": "3"
     },
     {
-      "id": "0dfc",
-      "title": "new blog",
-      "body": "This is my new blog",
-      "author": "mario"
-    },
-    {
       "id": "9dcb",
       "title": "Flask",
       "body": "This is blog about Python's Flask microframework for web development.",
-      "author": "yoshi"
-    },
-    {
-      "id": "eb5c",
-      "title": "FastAPI",
-      "body": "This is blog about Python's FastAPI framework for web development.",
       "author": "yoshi"
     },
     {

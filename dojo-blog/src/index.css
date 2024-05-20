@@ -34,7 +34,7 @@
   padding: 20px;
 }
 
-/* blog previews / list */
+/* Blog Previews / list */
 .blog-preview {
   padding: 10px 16px;
   margin: 20px 0;
@@ -55,7 +55,7 @@
   text-decoration: none;
 }
 
-/* blog details page */
+/* 'Blog Details' Page */
 .blog-details h2 {
   font-size: 20px;
   color: #f1356d;
@@ -75,7 +75,7 @@
   cursor: pointer;
 }
 
-/* create new blog form */
+/* 'Add a New Blog' Form */
 .create {
   max-width: 400px;
   margin: 0 auto;
@@ -109,4 +109,15 @@
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
+}
+
+/* 'Not Found' Page */
+.not-found h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}
+
+.not-found p {
+  margin-bottom: 5px;
 }

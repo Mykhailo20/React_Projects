@@ -25,8 +25,9 @@ const useFetch = (url) => {
                     setError(null);
                 })
                 .catch(err => {
+                    console.log("Fetch error happened: " + err.message);
                     setError(err.message);
-                    setIsPending(false);
+                    setIsPending(false);  
                 })
         }, 1000); // setTimeout to simulate reading data from real db
     }, [url]);
